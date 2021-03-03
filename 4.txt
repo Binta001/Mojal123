@@ -1,1 +1,2 @@
 resolving conflict on master
+resolving conflict on b1
